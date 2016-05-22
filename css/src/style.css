@@ -1,0 +1,19 @@
+body{
+  font-family: Arial;
+  background-color: rgb(230,235,235);
+}
+.head{
+
+  background-color: rgb(200,200,190);
+  padding: 40px 0 40px 90px;
+}
+
+#searchField{
+  width: 500px;
+  height: 28px;
+  font-size: 18px;
+
+}
+#searchButton{
+  height: 32px;
+}
